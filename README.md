@@ -14,7 +14,7 @@
 ### [Infrastructure: 서버 구축 및 배포]
 리눅스 기초부터 컨테이너 기반 배포 환경까지의 과정을 정리합니다.
 
-* ✅ **Linux & Docker 핵심 요약** ([링크](이슈_주소))
+* ✅ **Linux & Docker 핵심 요약** ([링크](https://github.com/rhdwnals1/blog/issues/1))
 * ⬜️ AWS EC2 인스턴스 초기 세팅 가이드 (예정)
 * ⬜️ Nginx를 활용한 리버스 프록시 구성 (예정)
 * ⬜️ Docker Compose 멀티 컨테이너 관리 (예정)
