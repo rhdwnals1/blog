@@ -15,9 +15,7 @@
 리눅스 기초부터 컨테이너 기반 배포 환경까지의 과정을 정리합니다.
 
 * ✅ **Linux & Docker 핵심 요약** ([링크](https://github.com/rhdwnals1/blog/issues/1))
-* ⬜️ AWS EC2 인스턴스 초기 세팅 가이드 (예정)
-* ⬜️ Nginx를 활용한 리버스 프록시 구성 (예정)
-* ⬜️ Docker Compose 멀티 컨테이너 관리 (예정)
+* ✅ **개발자라면 무조건 알아야 하는 네트워크 4대장 (IP, Port, TCP, HTTP)** ([링크](https://github.com/rhdwnals1/blog/issues/2))
 
 <br/>
 </td>
@@ -26,7 +24,6 @@
 ### [Next.js & Frontend]
 Next.js 프레임워크 기반의 웹 개발 관련 인사이트를 공유합니다.
 
-* _작성된 글이 없습니다._
 * _추후 업데이트 예정_
 
 </td>
@@ -39,7 +36,7 @@ Next.js 프레임워크 기반의 웹 개발 관련 인사이트를 공유합니
 
 | 카테고리 | 주제 | 최신 글 |
 | :--- | :--- | :--- |
-| **Infra** | 서버, 도커, 네트워크 | [Linux & Docker 핵심 요약](이슈_주소) |
+| **Infra** | 서버, 도커, 네트워크 | [개발자라면 무조건 알아야 하는 네트워크 4대장](https://github.com/rhdwnals1/blog/issues/2) |
 | **Frontend** | React, Next.js, Web | _업데이트 예정_ |
 | **Backend** | Node.js, Database | _업데이트 예정_ |
 | **CS** | 자료구조, 운영체제 | _업데이트 예정_ |
@@ -47,7 +44,7 @@ Next.js 프레임워크 기반의 웹 개발 관련 인사이트를 공유합니
 ---
 
 ## 📊 기록 현황
-- **총 포스트 수**: `1`
+- **총 포스트 수**: `2`
 
 ---
 
