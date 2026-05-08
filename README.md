@@ -7,11 +7,11 @@
 
 ## ⚛️ Frontend
 
-React / Next.js 기반으로 UI 구조와 웹 동작을 학습하고 있습니다.
+React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하고 있습니다.
 
 ### 📌 Posts
 
-- ✨ 렌더링 (예정)
+- ✨ [브라우저 렌더링 이해하기 (프론트엔드 핵심 개념)](https://github.com/rhdwnals1/blog/issues/3)
 
 ---
 
@@ -22,10 +22,8 @@ React / Next.js 기반으로 UI 구조와 웹 동작을 학습하고 있습니�
 ### 📌 Posts
 
 - 🧱 [Linux & Docker 핵심 요약](https://github.com/rhdwnals1/blog/issues/1)  
-  개발 환경 구성과 컨테이너 개념 정리
 
 - 🌐 [네트워크 핵심 4요소 (IP / Port / TCP / HTTP)](https://github.com/rhdwnals1/blog/issues/2)  
-  웹 통신 구조 기본 이해
 
 ---
 
@@ -49,7 +47,7 @@ React / Next.js 기반으로 UI 구조와 웹 동작을 학습하고 있습니�
 
 ## 🗂 Tech Overview
 
-⚛️ Frontend → React / Next.js / UI 구조  
+⚛️ Frontend → React / Next.js / TypeScript / JavaScript
 ⚙️ Infra → Linux / Docker / Network  
 🧠 Backend → Node.js / API / DB  
 📚 CS → 기초 학습 단계
