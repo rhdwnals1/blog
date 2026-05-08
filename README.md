@@ -1,7 +1,6 @@
 # 📔 Dev Log Archive
 
-프론트엔드 개발을 중심으로 시작해서  
-인프라와 백엔드를 함께 공부하며 정리하는 개발 기록입니다.
+프론트엔드 개발을 중심으로 시작해서 인프라와 백엔드를 함께 공부하며 정리하는 개발 기록입니다.
 
 ---
 
@@ -47,7 +46,7 @@ React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하�
 
 ## 🗂 Tech Overview
 
-⚛️ Frontend → React / Next.js / TypeScript / JavaScript
+⚛️ Frontend → React / Next.js / TypeScript / JavaScript  
 ⚙️ Infra → Linux / Docker / Network  
 🧠 Backend → Node.js / API / DB  
 📚 CS → 기초 학습 단계
@@ -67,8 +66,7 @@ React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하�
 
 ## ✍️ Notes
 
-이 저장소는 완성된 결과를 보여주는 곳이 아니라  
-이해한 내용을 정리하고 쌓아가는 공간입니다.
+이 저장소는 완성된 결과를 보여주는 곳이 아니라 이해한 내용을 정리하고 쌓아가는 공간입니다.
 
 ---
 
