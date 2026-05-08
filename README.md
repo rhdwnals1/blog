@@ -20,9 +20,9 @@ React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하�
 
 ### 📌 Posts
 
-- 🧱 [Linux & Docker 핵심 요약](https://github.com/rhdwnals1/blog/issues/1)  
-
+- 🐳 [Docker 기본 구조와 동작 원리](https://github.com/rhdwnals1/blog/issues/4)  
 - 🌐 [네트워크 핵심 4요소 (IP / Port / TCP / HTTP)](https://github.com/rhdwnals1/blog/issues/2)  
+- 🧱 [Linux & Docker 핵심 요약](https://github.com/rhdwnals1/blog/issues/1)  
 
 ---
 
