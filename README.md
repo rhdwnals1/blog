@@ -30,6 +30,8 @@ React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하�
 
 서버 구조와 API 흐름을 이해하기 위해 기초를 공부 중입니다.
 
+### 📌 Posts
+- 🗄️ [DB란 무엇인가?](https://github.com/rhdwnals1/blog/issues/9)
 - ⚙️ [Next.js API Route vs Node.js 차이](https://github.com/rhdwnals1/blog/issues/8)
 - 🔥 [브라우저에서 DB까지 데이터가 이동하는 과정](https://github.com/rhdwnals1/blog/issues/7)
 
