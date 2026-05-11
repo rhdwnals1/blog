@@ -9,7 +9,7 @@
 React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하고 있습니다.
 
 ### 📌 Posts
-
+- 😎 [프론트엔드 렌더링 방식 정리 (SPA / MPA / CSR / SSR)](https://github.com/rhdwnals1/blog/issues/6)
 - ✨ [브라우저 렌더링 이해하기 (프론트엔드 핵심 개념)](https://github.com/rhdwnals1/blog/issues/3)
 
 ---
