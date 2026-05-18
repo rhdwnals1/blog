@@ -9,6 +9,7 @@
 React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하고 있습니다.
 
 ### 📌 Posts
+- 🧚🏻‍♀️ [SSR이 있는데 왜 RSC까지 등장했을까?](https://github.com/rhdwnals1/blog/issues/12)
 - ⚡ [JavaScript 비동기, “동시에 실행되는 것처럼 보이는 이유”](https://github.com/rhdwnals1/blog/issues/10)
 - 😎 [프론트엔드 렌더링 방식 정리 (SPA / MPA / CSR / SSR)](https://github.com/rhdwnals1/blog/issues/6)
 - ✨ [브라우저 렌더링 이해하기 (프론트엔드 핵심 개념)](https://github.com/rhdwnals1/blog/issues/3)
