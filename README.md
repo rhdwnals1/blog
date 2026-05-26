@@ -21,6 +21,7 @@ React / Next.js / TypeScript 기반으로 UI 구조와 웹 동작을 학습하�
 개발 환경과 배포, 기본적인 서버/네트워크 개념을 학습 중입니다.
 
 ### 📌 Posts
+- 🦎 [우분투 서버에 SSH 세팅하고 어디서든 원격 접속하기](https://github.com/rhdwnals1/blog/issues/14)
 - 🌎 [Ubuntu + Docker + Node.js 개발 환경 설치 가이드 (실전 정리)](https://github.com/rhdwnals1/blog/issues/13)
 - 🐳 [Dockerfile & Docker Compose 읽는 법](https://github.com/rhdwnals1/blog/issues/5)
 - 🐳 [Docker 기본 구조와 동작 원리](https://github.com/rhdwnals1/blog/issues/4)  
